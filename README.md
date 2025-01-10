@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lukas</h1>
-<h3 align="center">A student at {EPITECH}</h3>
+<h3 align="center">Student at {EPITECH}</h3>
 
 - 🔭 I’m currently working on [Find Your Dev](https://findyourdev.fr)
 
